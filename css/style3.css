@@ -1,0 +1,180 @@
+
+
+body{
+    background-image: url('../Images/water-3.jpg');
+    background-repeat: after;
+}
+
+header{
+    width: 500px;
+    height: 200px;
+}
+
+#Logo img{
+    width: 300px;
+    height: 200px;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+
+
+#HM{
+    background-color: #D2F52A;
+    width: 180px;
+    height: 180px;
+    color: darkblue;
+    font-family: sans-serif;
+    margin-left: 0px;
+    margin-top: 40px;
+}
+
+#HR{
+    background-color: #D2F52A;
+    width: 180px;
+    height: 180px;
+    color: darkblue;
+    font-family: sans-serif;
+    margin-left: 220px;
+    margin-top: -180px;
+}
+
+#MIMIR{
+    text-align: center;
+    margin-top: 250px;
+}
+
+.MIMIR{
+    color: darkblue;
+    text-align: center;
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: bolder;
+}
+
+
+
+nav{width: 420px;
+    height: 160px;
+    background-color: #F5695B;
+    margin-left: 20px;
+    margin-top: 40px;
+    }
+
+.nav1{
+    text-align: center;
+    color: darkblue;
+    font-family: monospace;
+    font-size: 30px;
+    font-weight: bold;
+    margin-left: 40px;
+}
+
+
+
+#AGORA{
+    background-image: image(AGORA);
+    width: 300px;
+    height: 300px;
+    margin-left: 100px;
+    margin-top: 40px;
+    }
+
+#paragraphe{
+    text-align:justify;
+    font-size: 8px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    padding: 30px;
+    margin-top: 20px;
+}
+
+#Texte1{ background-color: white;
+    width: 420px;
+    height: 380px;
+    margin-left: 20px;
+    margin-top: 0px;
+}
+
+#Texte2{
+    background-color: white;
+    width: 420px;
+    height: 380px;
+    margin-left: 20px;
+    margin-top: 0px;
+}
+
+#Video1 iframe{
+    width: 400px;
+    height: 235px;
+    margin-left: 35px;
+    margin-top: 40px;
+}
+
+h1{
+    color: black;
+    text-align: center;
+    font-size: 60px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+}
+
+h2{
+    color:black;
+    text-align: center;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+}
+
+h3{
+    color: black;
+    text-align: center;
+    font-size: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+}
+
+a{
+    color: blue;
+    text-align: center;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    margin-top: 20px;
+}
+
+
+p{
+    color:black;
+    text-align: justify;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+}
+
+#nav-footer{
+    width: 420px;
+    height: 120px;
+    background-color: #F5695B;
+    margin-left: 20px;
+    margin-top: 40px;
+    padding-top: 10px;
+}
+
+.a-footer{
+    text-align: center;
+    color: darkblue;
+    font-family: monospace;
+    font-size: 30px;
+    font-weight: bold;
+    margin-left: 73px;
+}
+
+#Facebook{
+    
+    width: 100px;
+    height: 100px;
+    margin-left: 180px;
+    margin-top: 20px;
+}
